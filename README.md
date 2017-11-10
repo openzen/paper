@@ -1,10 +1,6 @@
-Project: openZen
-Editor: ilya.druzhinin@protonmail.ch
-Version: 0.1.0
-Date: 18/07/2017
+##### Version: 0.1.0 #####
 
-Notes: You can add comments and questions.
-Introduction
+# Introduction #
 General description of the document
 This document describes the main principles of the system Zen, problems that are being solved, functions of the programme, a road map of the project, a proposal for Pre ICO and ICO.
 
