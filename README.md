@@ -1,11 +1,7 @@
-Whitepaper 
-draft
-
 Project: openZen
 Editor: ilya.druzhinin@protonmail.ch
-Version: 0.5
+Version: 0.1.0
 Date: 18/07/2017
-GitHub: https://github.com/openzen/paper
 
 Notes: You can add comments and questions.
 Introduction
@@ -372,63 +368,5 @@ We, the team of Zen Technologies, act for the benefit and in the interests of pe
 
 ZenToken does not give an exclusive right to vote, as it is not a share. All users of the platform Zen have the right to participate in voting about the development of the platform.
 
-Zen Team
-Ilya Druzhinin. Founder & Software Engineer.
-John Backer. Software Engineer.
-Alexandr Vinarskiy. Software Engineer
-Ilya Bogdanov. Software Engineer. Intern.
-Dmitriy Himi. UX\UI expert
-Bogdan Popov. Community manager.
-Irina Druzhinina. Financial analyst.
-
 Road Map
 The project has a status of a semi-closed system until the beta version of it. Access to it is given to the holders of ZenToken and the people with invitations.
-
-The road map of the project consists of 8 main points:
-
-Pre ICO: from 1st August to 30th August 2017
-Goals: accelerate the development of the alpha version, collect feedbacks, opinions, to refine the concept and attract new people to our team.
- 
-ICO: from 15th October 2017 to 15th November 2017
-Goals: attract people for testing the alpha version
- 
-v.0.1 - december 2017
-Goals: Windows app, integration with Ethereum.
-Modules: Communities, profile, email, search, news of communities and friends
- 
-v.0.2 - Q1 2018
-Goals: MacOS app, launch of TestNet 
-Features:
-Modules: messenger, calls, games, lotteria, articles
-Ratings
-Advanced profile: photo, video, notes
-
-v.0.3 - Q2 2018
-Goals: development and testing of the blockchain Zen and the instruments of collective intelligence
-Features:
-Modules: startups, cinema, radio, music, calendar, events
-ZenToken wallet
- 
-v.0.4 - Q3 2018
-Goals: the version for unix systems, commissioning of the own blockchain for Zen
-Features:
-Implementing the function of mining
-Modules: educational
-Kids (the version of Zen for kids)
- 
-v.0.5 - Q4 2018
-Goals: integration with the business community, mobile app
-Modules: stock exchange, conduction of private business in Zen, store
- 
-v.1.0 - Q3 2019
-Goals: semi-closed public version, public testing
-
-
-Contacts
-Official site: http://openzen.co
-Email: mail@openzen.co
-Blog: https://medium.com/@openzen
-Facebook: http://facebook.com/openzen
-Twitter: http://twitter.com/JustOpenZen
-Telegram channel: http://t.me/openZen
-Telegram group: http://t.me/openZen_eng
