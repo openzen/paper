@@ -2,8 +2,11 @@
 
 ## Abstract ##
 This repository was created to develop documentation for the openZen project.
+
 We are conducting a research on distributed technologies and creating an alternative to web-browsers.
+
 Everyone can join the project and contribute, help us with theoretical research and practical implementation.
+
 We are a non-profit organization and therefore we accept any financial support.
 
 ## News ##
