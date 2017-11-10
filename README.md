@@ -165,49 +165,11 @@ All the participants of Pre ICO and ICO when buying ZenToken get:
 access to the system, starting with the alpha version
 the ability to use ZenTokens in the Zen system
 perform any other actions with ZenToken one month after the ICO 
-Crowdsale
-Distribution of ZenToken will be held in the format of crowdsales on Pre ICO and ICO.
-
-Maximum number of ZenTokens generated: 270 Million (270,000,000) 
-Number of ZenTokens for Pre ICO: 20 000 000 ZNT
-Number of ZenTokens for ICO: 100 000 000 ZNT
-Number of ZenTokens for team: 50 000 000 ZNT
-Number of ZenTokens for Zen Fund: 100 000 000 ZNT
-
-Date of ICO: 30.09.2017 - 30.10.2017
-
-Pre ICO information
-
-Soft cap: 1500 ETH.
-Hard cap: 5500 ETH.
-
-First 1,500,000 ZenToken will be distributed at a value 1000 ZenTokens per 1 ETH
-The remaining ZenTokens  will be distributed at a value 750 ZenTokens per 1 ETH
-
-Date of Pre ICO: 31/07/2017 - 31/08/2017
 
 Everyone who is interested in this project and agree to the terms of this campaign can support the project by taking part in our Pre ICO and get ZenToken.
 
 The project has a status of a semi-closed system until the beta version of it. The access to it is given to the holders of ZenTokens and people with invitations.
-Our goals
-We open the Pre ICO project in order to collect opinions, comments and critique of the project, to draw attention to the problems that are being solved and gather the minimum required amount for further development and conduction of a large-scale ICO.
 
-Pre ICO also includes collection of funds for the preparation of marketing campaigns, advertising in social networks, registration of all the necessary documents and legalization of the ICO under Swiss jurisdiction.
-Details of Pre ICO
-Pre ICO will be held on the official website of the project Zen: http://openzen.co using smart contracts of the Ethereum platform.
-
-The creation of new coins is provided by the system through mining and the developing algorithms of reaching consensus PoR (Proof-of-Reputation), which will be available in a full beta version of the project Zen.
-
-After collecting the required minimum Pre ICO campaign will run until the end date available for all participants. 
-How the money will be used
-Research and development, team: 40%
-Marketing: 30%
-Registration, office: 20%
-Technological infrastructure: 10%
-
-All the funds collected above the maximum amount will be transferred to the ICO Fund of the project of Zen and will be used for further development of the project.
-How to participate in Pre ICO
-Please double check the wallet address to which you send ETH.  Detailed information on participation can be found on the website http://openzen.co 
 Zen Fund
 Zen Fund is a fund aggregating, collecting and distributing Zen Tokens across all the users depending on their social activity and productive activity.
 
