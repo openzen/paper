@@ -1,6 +1,5 @@
 ##### Version: 0.1.0 #####
 
-- [News](https://github.com/openzen/paper/blob/master/eng.md#news)
 - [Introduction](https://github.com/openzen/paper/blob/master/eng.md#introduction)
 - [Ideology](https://github.com/openzen/paper/blob/master/eng.md#ideology)
 - [Theory](https://github.com/openzen/paper/blob/master/eng.md#theory)
@@ -10,8 +9,6 @@
 - [Links](https://github.com/openzen/paper/blob/master/eng.md#links)
 - [Contacts](https://github.com/openzen/paper/blob/master/eng.md#contacts)
 
-# News #
-**10/11/2017** - We moved to GitHub, where you can add your corrections, suggest improvements or ask questions associated with the repository of the openZen project. Welcome!
 
 # Introduction #
 #### General description of the document ####
