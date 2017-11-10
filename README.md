@@ -366,3 +366,17 @@ ZenToken does not give an exclusive right to vote, as it is not a share. All use
 
 Road Map
 The project has a status of a semi-closed system until the beta version of it. Access to it is given to the holders of ZenToken and the people with invitations.
+
+# Ideology #
+
+# Theory #
+
+# Practice # 
+
+# FAQ #
+
+# Contributing #
+
+# Links #
+
+# Contacts #
