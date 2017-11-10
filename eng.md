@@ -382,5 +382,5 @@ The project has a status of a semi-closed system until the beta version of it. A
 # Links #
 
 # Contacts #
-Email subscribe: http://eepurl.com/cw5cHz
-Telegarm Channel: https://t.me/openzen
+* Email subscribe: http://eepurl.com/cw5cHz
+* Telegarm Channel: https://t.me/openzen
