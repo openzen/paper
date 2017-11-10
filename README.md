@@ -13,5 +13,5 @@
 ## Bounty Campaign ##
 
 ## Community ##
-Gitter: https://gitter.im/openZen/Lobby
-Telegram Channel: https://t.me/openzen
+* Gitter: https://gitter.im/openZen/Lobby
+* Telegram Channel: https://t.me/openzen
