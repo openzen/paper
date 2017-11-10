@@ -15,3 +15,4 @@
 ## Community ##
 * Gitter: https://gitter.im/openZen/Lobby
 * Telegram Channel: https://t.me/openzen
+* Email subscribe: http://eepurl.com/cw5cHz
