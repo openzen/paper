@@ -1,12 +1,12 @@
 ##### Version: 0.1.0 #####
 
 # Introduction #
-General description of the document
+#### General description of the document ####
 This document describes the main principles of the system Zen, problems that are being solved, functions of the programme, a road map of the project, a proposal for Pre ICO and ICO.
 
 The architecture of the application and the materials that are being used for preparation are also briefly introduced.
 
-What is Zen?
+#### What is Zen? #####
 Zen is a desktop application which is an alternative to well-known browsers and to the concept of a ‘web’ as a whole.
 Zen is a semi closed decentralised distributed social network, a search engine and a storage of information, where information is being created, updated and consumed directly by the users of the system.
 The main idea of the project is that the content (text, audio, photo, video) is distributed between the participants of the network using a p2p (f2f) model with the technologies of a distributed storage IPFS.
@@ -14,7 +14,7 @@ Zen is meant to become a new way of spending time in the Internet. The system us
 Zen is a decentralized network, influence of servers is minimized and in the future it will be completely eliminated.
 We are creating the clean Internet where one can find everything he or she needs: friends, mail, calls, cinema, games, articles and much more.
 
-Problem overview
+#### Problem overview ####
 What’s the idea: the application Zen is being developed in order to solve a number of systematic problems of the Internet, make people’s life easier. What kinds of problems does Zen solve? Which problems became the reasons to create this project?
 
 In the process of life and activity in the online space we faced a number of problems which are not being solved now and cause more and more harm with every year.
@@ -71,7 +71,7 @@ Our idea is to give participants a mechanism of obtaining assets/cryptocurrency 
  
 Note: each of the following issues can be discussed infinitely long, we are glad to talk about it. The problems are described very briefly. For more information please contact ilya.druzhinin@protonmail.ch or use references to this document.
 
-Mission Statement
+#### Mission Statement ####
 Our mission is to give the users of the Internet the instrument to make life easier. This instrument will allow them to save their priceless time of life. Zen is a new milestone in the development of the Internet that will reduce the amount of informational noise and informational pollution.
 
 Our mission is to reduce the role of advertising as means of getting profit. In our opinion it is the main reason if informational pollution. In the pursuit of advertising the business does not act in the interests of ordinary people, more and more manipulating their weaknesses, desires and pains.  
@@ -81,14 +81,16 @@ Developing Zen we completely realise that Zen cannot belong to a limited number 
 Our mission is to create an ecosystem for honest, fair and responsible people. 
 
 Our mission is to create an autonomous and smart society.
-Core Objectives
+
+#### Core Objectives ####
 Create an application that will be an alternative to web browsers, that will combine all the main user scenarios in the Internet: communication, search and creation of information, entertainment.
 Reduce information overload of people, make their life easier in the period of information age.
 Make the application decentralised, independent from material interests of a limited number of people.
 Reward users for socially useful actions. Any activity aiming to collect and organise knowledge should be rewarded as well as any socially useful action.
 Reduce negative influence of unscrupulous people, organisations and information. Any negative and destructive action should have an effect on life of its initiator lowering his or her social status and reputation.
 Give people equal opportunities for personal development. All the people are equal and if someone has less resources than the other, it should not matter if the person wants to develop.
-How does it work?
+
+#### How does it work? ####
 Note: Main ideas of the application.
 Expert network
 We introduce a system of competencies for the establishment of an expert network. The expert system is based on so-called "collective intelligence".
@@ -135,7 +137,7 @@ Blockchain and ZenToken is a connecting link of the entire application. Tokens c
 In total
 Zen brings together all the necessary things of the Internet into one decentralized distributed network application. Zen is a distributed network with nodes, this ensures confidentiality and privacy of the data. Information is created in this network, updated and distributed between the participants themselves. They are rewarded with ZenToken for that.
 
-What kind of future can we expect with Zen?
+#### What kind of future can we expect with Zen? ####
 
 You can be connected to Zen without even being connected to the Internet
 Improved quality of information
@@ -147,11 +149,12 @@ Constructive development of humans
 Reducing online fraud
 Equitable distribution of assets
 
-Token Generation and Distribution
-The project is being developed by an independent  team of software engineers and IT professionals. And we’ve decided to launch the ICO in order to accelerate the development of the project.
+#### Token Generation and Distribution ####
+The project is being developed by an independent  team of software engineers and IT professionals. And we’ve decided to launch the Token Sale in order to accelerate the development of the project.
 
-The first stage is Pre ICO in order to prepare for the ICO campaign, to collect feedbacks, comments, opinions of community, to attract consultants, lawyers, economists who share our ideas and support the proposed implementation of the project.
-Zen Token
+The first stage is TokenSale in order to collect feedbacks, comments, opinions of community, to attract consultants, lawyers, economists who share our ideas and support the proposed implementation of the project.
+
+##### ZenToken #####
 ZenToken is not a currency, not an investment product or other product aiming to bring material benefits to its holder.
 ZenToken is a product and element of the work in the system Zen produced by both the system and the users. 
 ZenToken is a necessary and important part of the Zen system, it is an integral element of it.
@@ -170,12 +173,12 @@ Everyone who is interested in this project and agree to the terms of this campai
 
 The project has a status of a semi-closed system until the beta version of it. The access to it is given to the holders of ZenTokens and people with invitations.
 
-Zen Fund
+##### Zen Fund #####
 Zen Fund is a fund aggregating, collecting and distributing Zen Tokens across all the users depending on their social activity and productive activity.
 
 Zen Fund is not established and do not operate in personal interests of its founders. Not more than 20% of all collected assets can go to the needs of the Fund's work and his team.
 
-Details
+#### Details ####
 Adaptable interface
 The interface of the Zen application adapts to each user personally, if they want it. Buttons change their location by frequency of use. If you often press the button "Movie", it is moved higher in the list of all menu buttons.
 Custom privacy
@@ -283,7 +286,7 @@ Each module includes a unique set of features that are required for a specific m
 Decentralized autonomous organization
 In the system of Zen it is possible to create a Decentralized autonomous organization, establish the necessary rules and start the working. Work of DAO is based on smart contracts.
 
-Architecture and Application
+#### Architecture and Application ####
 Brief description of architecture
 
 Zen is basically an innovative approach to design and user scenarios. We aim to create the most convenient interface for working with the Internet and to optimize the user scenarios. Adaptive and highly adjustable interface where a user can choose what he wants to see and what he does not. Unlike other projects that are developing technologies, we first develop a unified interface that will allow the users to find and create information easier, to communicate better and to spend fun time online. 
@@ -302,7 +305,8 @@ Each message sent must contain 2 parameters: a) type, b) a list of recipients. T
 Zen architecture is based on a p2p and f2f model. The information generated by the users is spread between them, i.e. a distributed data storage is implemented. All the data is accumulated in special network nodes. These are common users who act as the nodes. 
 
 Public content is stored in IPFS, nodes. Personal data is distributed according to the model of p2p.
-Application
+
+##### Application #####
 Major operating systems that support Zen app are Windows and MacOS.
 
 The visual interface of Zen application is a program that interacts with a local database network, with nodes and other peers. 
@@ -313,12 +317,13 @@ A user can change the settings of the client. Such as:
 the disk space used more or less.
 decentralization: the focus of work may change from p2p to a nodes and back.
 storing files locally or in a cloud: the cloud of a nodes or a cloud of the p2p network
-Nodes
+
+##### Nodes #####
 There do not exist elements of a classical Client-Server in the system of Zen. 
 
 The nodes of Zen platform act as hubs that search for sources of information - peers, based on the data entered by a user in the client. Also nodes act as trusted peers, that is, they can store encrypted by users information for further distribution in the network. A user of the network can also become a trusted peer, if he or she has enough reputation and a required disk space - this activity is encouraged by the multiplier of ZenToken.
 
-Company and the Team
+#### Company and the Team ####
 About company
 Zen Technologies is a non - profit company the main purpose of which is the development of a platform Zen. Zen Technologies does not aim to maximize profits.
 
@@ -326,7 +331,7 @@ We, the team of Zen Technologies, act for the benefit and in the interests of pe
 
 ZenToken does not give an exclusive right to vote, as it is not a share. All users of the platform Zen have the right to participate in voting about the development of the platform.
 
-Road Map
+#### Road Map ####
 The project has a status of a semi-closed system until the beta version of it. Access to it is given to the holders of ZenToken and the people with invitations.
 
 # Ideology #
