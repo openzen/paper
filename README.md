@@ -1,5 +1,17 @@
 ##### Version: 0.1.0 #####
 
+[News](https://github.com/openzen/paper#news)
+[Introduction](https://github.com/openzen/paper#introduction)
+[Ideology](https://github.com/openzen/paper/blob/master/README.md#ideology)
+[Theory](https://github.com/openzen/paper/blob/master/README.md#theory)
+[Practice](https://github.com/openzen/paper/blob/master/README.md#practice)
+[FAQ](https://github.com/openzen/paper/blob/master/README.md#faq)
+[Contributing](https://github.com/openzen/paper/blob/master/README.md#contributing)
+[Links](https://github.com/openzen/paper/blob/master/README.md#links)
+[Contacts](https://github.com/openzen/paper/blob/master/README.md#contacts)
+
+# News #
+
 # Introduction #
 #### General description of the document ####
 This document describes the main principles of the system Zen, problems that are being solved, functions of the programme, a road map of the project, a proposal for Pre ICO and ICO.
