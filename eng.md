@@ -12,7 +12,7 @@
 
 # Introduction #
 #### General description of the document ####
-This document describes the main principles of the system Zen, problems that are being solved, functions of the programme, a road map of the project, a proposal for Pre ICO and ICO.
+This document describes the main principles of the system Zen, problems that are being solved, functions of the programme, a road map of the project, a proposal for Token Sale.
 
 The architecture of the application and the materials that are being used for preparation are also briefly introduced.
 
